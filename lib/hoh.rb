@@ -31,7 +31,8 @@ PORTION_4 = {
 }
 
 def naming_system
-  {}
+  hoh=PORTION_1
+  hoh
 
   # Remember:
   #  Kingdom
